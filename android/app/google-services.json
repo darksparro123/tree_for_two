@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80082585452",
+    "project_id": "tree-app-8efc9",
+    "storage_bucket": "tree-app-8efc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80082585452:android:b0d3184f84c8579afb5549",
+        "android_client_info": {
+          "package_name": "com.arcTouchApps.treeForTwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80082585452-367bf982qh0utj5t2e3f020uh37f2tmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcTouchApps.treeForTwo",
+            "certificate_hash": "5556431426842fb3f49916b2b0cc4c619b5846da"
+          }
+        },
+        {
+          "client_id": "80082585452-lkmhtgggej0jbkojct0jrp4trv8ejlri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3b8jmOsqXH_SavvdlrdkbPl8ds8M652A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80082585452-lkmhtgggej0jbkojct0jrp4trv8ejlri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
